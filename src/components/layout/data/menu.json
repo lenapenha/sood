@@ -1,0 +1,13 @@
+{
+    "menu": [
+        {
+            "label": "Home",
+            "path": "/#home"
+        },
+        
+        {
+            "label": "Contact",
+            "path": "/#contact"
+        }
+    ]
+}
